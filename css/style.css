@@ -1,0 +1,109 @@
+html{
+    font-size: 62.5%;
+    background-color: white;
+}
+
+*{
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.navClass a{
+    color: #6f0b00;
+    font-size: 20px;
+    margin: 2px;
+}
+
+.navClass a:hover{
+    color: black
+}
+
+.navbar-collapse{
+    flex-grow: 0;
+}
+
+.menuHamburguesa{
+    background-color:  #6f0b00;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    color: #6c788e;
+}
+
+.graciasPorVisitarnos p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+    padding: 25px;
+    margin: 25px;
+}
+
+h2{
+    font-family:'Roboto', sans-serif;
+    font-size: 30px;
+    color: #6c788e;
+}
+
+.quienesSomos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+}
+
+.recetas, .recetas h2{
+    font-family:'Roboto', sans-serif;
+    font-size: 30px;
+    color: #6c788e;
+}
+
+.recetas, .recetas ol li{
+    font-family: sans-serif ;
+    font-size: 25px;
+    color: #6f0b00;
+    text-align: left;
+    list-style: none;
+}
+
+.recetas2, .recetas2 p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    text-align: justify;
+}
+
+
+.col-md-6{
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+hr{
+    border-top: 1px solid black;
+    height: 2px;
+    padding: 0;
+    margin: 20px auto 0 auto;
+}
+
+.column2 ul li{
+    display: inline-block;
+    font-size: 18px;
+    list-style: none;
+    align-items: center;
+    padding: 2px;
+}
+
+.column3 ul li{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    list-style: none;
+    text-align: justify;
+}
+
+
